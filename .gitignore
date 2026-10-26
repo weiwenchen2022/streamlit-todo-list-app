@@ -1,2 +1,3 @@
 __pycache__/
+.streamlit/
 session_state_example.py
